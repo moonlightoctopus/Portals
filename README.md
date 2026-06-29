@@ -5,3 +5,4 @@ Notes:
 WASD movement
 Make sure to turn on hardware acceleration
 You can walk through portals (:D)
+Portals.zip is already compiled
